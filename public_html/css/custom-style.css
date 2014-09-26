@@ -1,5 +1,5 @@
 div {
-    border-style: solid;
+    border-style: hidden;
     border-width: 5px;
     border-color: green;
     padding: 30px;
@@ -12,3 +12,6 @@ div {
     .row {
      border-color: red;   
     }
+    body {
+    background-image: url("http://images7.alphacoders.com/491/491659.jpg");
+}
